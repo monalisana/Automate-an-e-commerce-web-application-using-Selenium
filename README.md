@@ -3,9 +3,9 @@ Automated and tested the common functionalities of an e-commerce web application
 
 This project is done to learn automation using selenium - python.
 
-Dummy e-commerce website: https://www.saucedemo.com/
-Design pattern - Page Object Model (POM)
-Reports - HTML-testrunner
+- Dummy e-commerce website: https://www.saucedemo.com/
+- Design pattern - Page Object Model (POM)
+- Reports - HTML-testrunner
 
 The below requirements have been automated -
 1. Open the given e-commerce website.
